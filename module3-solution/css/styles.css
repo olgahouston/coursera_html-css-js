@@ -1,0 +1,32 @@
+/********** Base styles **********/
+.row {
+  background-color: #c7c7c4;
+}
+.col-xs-12 {
+  height: 1000px;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #999;
+}
+
+
+/* Responsive Framework.*/
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+}
